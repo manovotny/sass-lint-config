@@ -1,0 +1,22 @@
+{
+  "name": "sass-lint-confg",
+  "version": "0.0.0",
+  "description": "TODO",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/manovotny/sass-lint-config.git"
+  },
+  "keywords": [
+    "config",
+    "css",
+    "lint",
+    "sass"
+  ],
+  "authors": [
+    {
+      "name": "Michael Novotny",
+      "email": "manovotny@gmail.com",
+      "homepage": "http://manovotny.com"
+    }
+  ]
+}
