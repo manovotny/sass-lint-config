@@ -1,7 +1,7 @@
 {
   "name": "sass-lint-config",
   "version": "0.0.0",
-  "description": "TODO",
+  "description": "A standardized sass-lint config.",
   "author": "Michael Novotny <http://manovotny.com/>",
   "repository": {
     "type": "git",
