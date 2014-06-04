@@ -1,6 +1,6 @@
 {
   "name": "sass-lint-confg",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A standardized sass-lint config.",
   "repository": {
     "type": "git",
